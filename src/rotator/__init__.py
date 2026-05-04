@@ -1,0 +1,1 @@
+"""Automated key rotation scheduler."""
